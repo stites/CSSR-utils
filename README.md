@@ -1,5 +1,6 @@
-This directory contains the various Perl scripts I wrote over the years to work
-with CSSR.
+This directory contains the various Perl scripts written over the years to work
+with CSSR. All work was written by Cosma Shalizi, current maintainer is Sam
+Stites <sam@stites.io>
 
 Directory contents (alphabetically):
 - bic-selector.pl does model selection, on the history length, using BIC
@@ -31,8 +32,3 @@ Directory contents (alphabetically):
   transition probabilities of an already-inferred machine.
 
 See also the test-machines directory, which should accompany this.
-
-
-History:
-- Created directory and wrote README; noticed duplicate inferred-vs-true.pl
-  versions. (2015-09-26)
