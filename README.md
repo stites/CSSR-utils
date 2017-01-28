@@ -1,6 +1,6 @@
 This directory contains the various Perl scripts written over the years to work
 with CSSR. All work was written by Cosma Shalizi, current maintainer is Sam
-Stites <sam@stites.io>
+Stites.
 
 Directory contents (alphabetically):
 - bic-selector.pl does model selection, on the history length, using BIC
@@ -31,4 +31,6 @@ Directory contents (alphabetically):
 - update-machine-probs.pl uses an observed time series to update the
   transition probabilities of an already-inferred machine.
 
-See also the test-machines directory, which should accompany this.
+See also the [perl files in test-machines][0], which should accompany this.
+
+[0]:https://github.com/stites/test-machines/tree/master/perl
